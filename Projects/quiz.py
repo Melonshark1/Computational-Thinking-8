@@ -39,4 +39,5 @@ if roblox_points > minecraft_points:
     print ("you like roblox better.")
 elif roblox_points < minecraft_points:
     print ("you like minecraft better")
-elif roblox_points and 1 == 2 print("wow")
+elif roblox_points and minecraft_points == 2:
+    print("wow")
