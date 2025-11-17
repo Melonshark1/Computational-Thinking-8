@@ -30,6 +30,7 @@ for i in range(40):
 t.color("white")
 t.goto(-200, -200)
 for i in range(40):
+#repeats the code
     t.left(123 + i)
     t.forward(100 + i)
     t.color("black")
