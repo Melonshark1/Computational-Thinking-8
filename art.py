@@ -1,7 +1,7 @@
 import turtle
 t = turtle.Turtle()
 t.speed(10)
-
+# t.color("---") changes color of pen
 t.color("maroon")
 for i in range(70):
     t.goto(-200, 200)
